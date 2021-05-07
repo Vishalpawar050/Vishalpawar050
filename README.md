@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishalpawar050
 - 👀 I’m interested in Android & Web Development
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java,Python
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me vishalpawar050@gmail.com or @Vishalpawar050
 
