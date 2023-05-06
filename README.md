@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @Vishalpawar050
-- 👀 I’m interested in Android & Web Development
-- 🌱 I’m currently learning Java,Python
-- 💞️ I’m looking to collaborate on Android projects
-- 📫 How to reach me vishalpawar050@gmail.com or @Vishalpawar050
+Hi, I'm Vishal Pawar 👋
 
-<!---
-Vishalpawar050/Vishalpawar050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Thank you Hope we learn and grow together☺☺
+🎓 Software Developer, Bengaluru
+💼 2 years of experience in the software domain as a frontend developer 
+💻 Proficient in HTML5, CSS3, ReactJS, Javascript, Git, GitHub
+🐍 Familiar  Database Management System, MongoDB, and MySQL
+🎤 Strong public speaking and confident presenting skills
+💬 Excellent communication skills and English proficiency
+
+ My GitHub profile 🐙 showcases my open-source contributions and projects.
+
+Let's connect and discuss how we can collaborate on a project or how I can contribute to your organization. 🔗
+
+✓ GitHub:
+✓ Twitter:https://twitter.com/vishalpawar050
