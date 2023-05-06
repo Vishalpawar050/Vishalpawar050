@@ -11,5 +11,5 @@ Hi, I'm Vishal Pawar 👋
 
 Let's connect and discuss how we can collaborate on a project or how I can contribute to your organization. 🔗
 
-✓ GitHub:
-✓ Twitter:https://twitter.com/vishalpawar050
+✓ GitHub: https://github.com/Vishalpawar050
+✓ Twitter: https://twitter.com/vishalpawar050
